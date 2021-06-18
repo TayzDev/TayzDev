@@ -13,11 +13,11 @@
                🌐 Web site.
                ⚙ Discord bot (on discord.js).
 
- <details>
-  <summary><stong>Ce que j'apprends/travaille ces jours-ci :</strong></summary>
-     - 🔒 Script Avancé en Pmenu Pour AverLifeRP en LUA.
-     - 🌐 Avancement du Site internet AverLifeRP, création du catalogue + régles.
-     - ⚙ Avancement du Bot Support AverLifeRP, Création de ticket via une commande.
-</details>
+             <details>
+            <summary><stong>Ce que j'apprends/travaille ces jours-ci :</strong></summary>
+            - 🔒 Script Avancé en Pmenu Pour AverLifeRP en LUA.
+            - 🌐 Avancement du Site internet AverLifeRP, création du catalogue + régles.
+            - ⚙ Avancement du Bot Support AverLifeRP, Création de ticket via une commande.
+            </details>
 
-[!TayzDev GitHub stats](https://github-readme-stats.vercel.app/api?username=TayzDev)](https://github.com/TayzDev/github-readme-stats)
+![TayzDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=TayzDev&hide=contribs,prs)
