@@ -1,3 +1,6 @@
+# ![TayzDev](https://github.com/TayzDev/TayzDev/blob/main/1_ZYvIODaecwrVI6ZybAdn3Q.jpeg)
+
+
                Hi everyone, I'm Tayz 
                About Me 🎓
                🏆 I want to be a fullstack or web developper.
