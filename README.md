@@ -15,9 +15,9 @@
 
   <details>
   <summary><stong>Ce que j'apprends/travaille ces jours-ci :</strong></summary>
-            - 🔒 Script Avancé en Pmenu Pour AverLifeRP en LUA.
-            - 🌐 Avancement du Site internet AverLifeRP, création du catalogue + régles.
-            - ⚙ Avancement du Bot Support AverLifeRP, Création de ticket via une commande.
+                                         - 🔒 Script Avancé en Pmenu Pour AverLifeRP en LUA.
+                                         - 🌐 Avancement du Site internet AverLifeRP, création du catalogue + régles.
+                                         - ⚙ Avancement du Bot Support AverLifeRP, Création de ticket via une commande.
   </details>
 
 ![TayzDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=TayzDev&hide=contribs,prs)
