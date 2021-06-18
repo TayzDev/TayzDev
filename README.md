@@ -20,6 +20,6 @@
                     - ⚙ Avancement du Bot Support AverLifeRP, Création de ticket via une commande.
 
 
-![TayzDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=TayzDev&hide=contribs,prs)
+
 
 ![TayzDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=TayzDev&theme=tokyonight&show_icons=true)
