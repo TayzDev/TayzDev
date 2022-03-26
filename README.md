@@ -3,18 +3,18 @@
 
                Hi everyone, I'm Tayz 
                About Me 🎓
-               🏆 I want to be a fullstack or web developper.
+               🏆 I Dev For Fun.
                💻 I am a student in development.
                👯 I live in France.
                👤 I strive to be a better development every day.
                My projects ⚜️
-               Cheats Fortnite, R6S and BloodHunt In C++
+               Custom Framework FiveM In Lua
                🌐 Web site.
                ⚙ Discord bot (on discord.js).
 
 
                     Ce que j'apprends/travaille ces jours-ci :
-                    Spoofer IN C++ for fortnite and other games.
+                   Custom Framework for my server in lua ( FiveM ) 
                     
 
 
