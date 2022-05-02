@@ -19,7 +19,7 @@
 ![Tayz's github stats](https://github-readme-stats.vercel.app/api?username=TayzDev&theme=vue-dark&show_icons=true)
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TayzDev)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TayzDev&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <br />
