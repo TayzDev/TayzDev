@@ -5,8 +5,9 @@
 
 ## I'm a student Developer !
 
-- 🔭 I’m currently working on some FiveM/RedM projects!
+- 🔭 I’m currently working on some FiveM projects!
 - 🌱 I’m currently learning HTML / CSS / JS / PHP
+- ⛷️ I search a open source Project ! 
 ### Connect with me:
 
 [<img align="left" alt="Stalya Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
